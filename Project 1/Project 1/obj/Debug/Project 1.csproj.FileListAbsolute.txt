@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Documents\mssql\MY Sql Project\Project 1\Project 1\bin\Debug\Project 1.exe.config
+C:\Users\Lenovo\Documents\mssql\MY Sql Project\Project 1\Project 1\bin\Debug\Project 1.exe
+C:\Users\Lenovo\Documents\mssql\MY Sql Project\Project 1\Project 1\bin\Debug\Project 1.pdb
+C:\Users\Lenovo\Documents\mssql\MY Sql Project\Project 1\Project 1\obj\Debug\Project 1.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\mssql\MY Sql Project\Project 1\Project 1\obj\Debug\Project 1.exe
+C:\Users\Lenovo\Documents\mssql\MY Sql Project\Project 1\Project 1\obj\Debug\Project 1.pdb
+C:\Users\Lenovo\Documents\mssql\MY Sql Project\Project 1\Project 1\bin\Debug\Entity.dll
+C:\Users\Lenovo\Documents\mssql\MY Sql Project\Project 1\Project 1\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\Documents\mssql\MY Sql Project\Project 1\Project 1\bin\Debug\Entity.pdb
+C:\Users\Lenovo\Documents\mssql\MY Sql Project\Project 1\Project 1\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\Documents\mssql\MY Sql Project\Project 1\Project 1\bin\Debug\ADO.NET.dll
+C:\Users\Lenovo\Documents\mssql\MY Sql Project\Project 1\Project 1\bin\Debug\MySql.Data.dll
+C:\Users\Lenovo\Documents\mssql\MY Sql Project\Project 1\Project 1\bin\Debug\ADO.NET.pdb
+C:\Users\Lenovo\Documents\mssql\MY Sql Project\Project 1\Project 1\bin\Debug\MySql.Data.xml
